@@ -1,0 +1,26 @@
+/************************************
+*main css file for portfolio website*
+*created  by Esther Naisimoi        *
+*On march 8,2021                    *
+************************************/
+p{
+    color:red;
+    background-color:yellow;
+}
+nav{
+    background-color: #003d00;
+}
+main{
+    background-color: #33691e;
+}
+body
+{
+    font-family: "open sans, sans-serif";
+    font-size: 1.00rem;
+    font-weight: bold;
+    font-style: italic;
+}
+footer
+{
+    background-color: #629749;
+}
